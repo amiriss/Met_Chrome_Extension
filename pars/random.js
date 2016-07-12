@@ -4,8 +4,6 @@ var page = new Array(howMany+1);
 
 page[0]="0001.html";
 
-
-
 function rndnumber(){
 var randscript = -1;
 while (randscript < 0 || randscript > howMany || isNaN(randscript)){
