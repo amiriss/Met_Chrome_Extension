@@ -1,9 +1,9 @@
 <!-- hide script from old browsers
-var howMany = 1;  // max number of items listed below
+var howMany = 2;  // max number of items listed below
 var page = new Array(howMany+1);
 
 page[0]="0001.html";
-
+page[1]="0002.html";
 function rndnumber(){
 var randscript = -1;
 while (randscript < 0 || randscript > howMany || isNaN(randscript)){
