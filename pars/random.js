@@ -1,12 +1,15 @@
 <!-- hide script from old browsers
-var howMany =4;  // max number of items listed below
+var howMany =7;  // max number of items listed below
 var page = new Array(howMany+1);
 
 page[0]="0001.html";
 page[1]="0002.html";	
 page[2]="0003.html";
-page[2]="0004.html";
-page[2]="0005.html";
+page[3]="0004.html";
+page[4]="0005.html";
+page[5]="0006.html";
+page[6]="0007.html";
+page[7]="0008.html";
 
 function rndnumber(){
 var randscript = -1;
